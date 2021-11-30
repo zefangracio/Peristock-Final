@@ -1,0 +1,10 @@
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB590','Adams Media');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB591','Taschen');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB592','Better Link Press');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB593','Innovative Kids');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB594','Rizzoli');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB595','Emma Treehouse');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB596','Pinwheel Limited');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB597','Penerbit Periplus');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB598','Best Bets');
+INSERT INTO peri_pub (kode,nama) VALUES ('KSB599','Pelican Publishing');
